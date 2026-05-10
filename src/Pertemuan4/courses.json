@@ -1,0 +1,76 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Mastering React for Beginners",
+      "category": "Web Development",
+      "price": 499000,
+      "thumbnail_url": "https://picsum.photos/seed/course1/400/250",
+      "description": "Belajar React dari nol sampai mahir membangun aplikasi riil.",
+      "instructor_detail": {
+        "name": "Alex Rivai",
+        "experience": "8 Years",
+        "rating": 4.9
+      },
+      "curriculum_summary": {
+        "total_modules": 12,
+        "total_hours": 45,
+        "has_certificate": true
+      },
+      "enrollment_stats": {
+        "students": 1250,
+        "last_updated": "2024-03-01",
+        "popularity_score": 95
+      }
+    },
+    {
+      "id": 2,
+      "title": "UI/UX Design Essentials",
+      "category": "Design",
+      "price": 350000,
+      "thumbnail_url": "https://picsum.photos/seed/course2/400/250",
+      "description": "Pelajari prinsip desain antarmuka yang ramah pengguna.",
+      "instructor_detail": { "name": "Sita Aminah", "experience": "5 Years", "rating": 4.8 },
+      "curriculum_summary": { "total_modules": 8, "total_hours": 30, "has_certificate": true },
+      "enrollment_stats": { "students": 890, "last_updated": "2024-02-15", "popularity_score": 88 }
+    },
+    {
+      "id": 3,
+      "title": "Digital Marketing Pro",
+      "category": "Marketing",
+      "price": 275000,
+      "thumbnail_url": "https://picsum.photos/seed/course3/400/250",
+      "description": "Strategi pemasaran digital untuk menaikkan penjualan bisnis.",
+      "instructor_detail": { "name": "Budi Santoso", "experience": "10 Years", "rating": 4.7 },
+      "curriculum_summary": { "total_modules": 15, "total_hours": "25", "has_certificate": true },
+      "enrollment_stats": { "students": 2100, "last_updated": "2024-01-20", "popularity_score": 92 }
+    },
+    {
+      "id": 4,
+      "title": "Python for Data Science",
+      "category": "Data Science",
+      "price": 550000,
+      "thumbnail_url": "https://picsum.photos/seed/course4/400/250",
+      "description": "Analisis data besar menggunakan library Python populer.",
+      "instructor_detail": { "name": "Dr. Linda", "experience": "12 Years", "rating": 5.0 },
+      "curriculum_summary": { "total_modules": 20, "total_hours": 60, "has_certificate": true },
+      "enrollment_stats": { "students": 1500, "last_updated": "2024-03-10", "popularity_score": 98 }
+    },
+    { "id": 5, "title": "Cyber Security Fundamentals", "category": "IT Security", "price": 600000, "thumbnail_url": "https://picsum.photos/seed/course5/400/250", "description": "Melindungi sistem dari ancaman siber masa kini.", "instructor_detail": { "name": "Kevin Mit", "experience": "7 Years", "rating": 4.9 }, "curriculum_summary": { "total_modules": 10, "total_hours": 35, "has_certificate": true }, "enrollment_stats": { "students": 450, "last_updated": "2024-03-05", "popularity_score": 85 } },
+    { "id": 6, "title": "Mobile App Development with Flutter", "category": "Mobile", "price": 450000, "thumbnail_url": "https://picsum.photos/seed/course6/400/250", "description": "Satu codebase untuk Android dan iOS.", "instructor_detail": { "name": "Eko Kurniawan", "experience": "6 Years", "rating": 4.8 }, "curriculum_summary": { "total_modules": 14, "total_hours": 50, "has_certificate": true }, "enrollment_stats": { "students": 3200, "last_updated": "2024-03-12", "popularity_score": 99 } },
+    { "id": 7, "title": "Photography Masterclass", "category": "Creative", "price": 200000, "thumbnail_url": "https://picsum.photos/seed/course7/400/250", "description": "Teknik komposisi dan editing foto profesional.", "instructor_detail": { "name": "Andi Foto", "experience": "15 Years", "rating": 4.6 }, "curriculum_summary": { "total_modules": 6, "total_hours": 15, "has_certificate": false }, "enrollment_stats": { "students": 1100, "last_updated": "2024-02-28", "popularity_score": 80 } },
+    { "id": 8, "title": "Business Leadership", "category": "Business", "price": 300000, "thumbnail_url": "https://picsum.photos/seed/course8/400/250", "description": "Menjadi pemimpin yang efektif di era modern.", "instructor_detail": { "name": "Sarah CEO", "experience": "20 Years", "rating": 4.9 }, "curriculum_summary": { "total_modules": 5, "total_hours": 10, "has_certificate": true }, "enrollment_stats": { "students": 700, "last_updated": "2024-01-15", "popularity_score": 82 } },
+    { "id": 9, "title": "Excel for Accountants", "category": "Finance", "price": 150000, "thumbnail_url": "https://picsum.photos/seed/course9/400/250", "description": "Rumus-rumus sakti Excel untuk laporan keuangan.", "instructor_detail": { "name": "Bambang CPA", "experience": "9 Years", "rating": 4.7 }, "curriculum_summary": { "total_modules": 8, "total_hours": 12, "has_certificate": true }, "enrollment_stats": { "students": 5000, "last_updated": "2024-03-08", "popularity_score": 97 } },
+    { "id": 10, "title": "English for Business", "category": "Language", "price": 250000, "thumbnail_url": "https://picsum.photos/seed/course10/400/250", "description": "Komunikasi profesional dalam bahasa Inggris.", "instructor_detail": { "name": "Ms. Jane", "experience": "4 Years", "rating": 4.5 }, "curriculum_summary": { "total_modules": 12, "total_hours": 20, "has_certificate": true }, "enrollment_stats": { "students": 1300, "last_updated": "2024-02-10", "popularity_score": 84 } },
+    { "id": 11, "title": "Cooking Asian Cuisine", "category": "Lifestyle", "price": 180000, "thumbnail_url": "https://picsum.photos/seed/course11/400/250", "description": "Resep autentik masakan Asia favorit.", "instructor_detail": { "name": "Chef Junaidi", "experience": "11 Years", "rating": 4.8 }, "curriculum_summary": { "total_modules": 10, "total_hours": 18, "has_certificate": false }, "enrollment_stats": { "students": 950, "last_updated": "2024-03-02", "popularity_score": 89 } },
+    { "id": 12, "title": "Public Speaking Mastery", "category": "Self Dev", "price": 320000, "thumbnail_url": "https://picsum.photos/seed/course12/400/250", "description": "Bicara di depan umum dengan percaya diri.", "instructor_detail": { "name": "Robi Motivator", "experience": "13 Years", "rating": 4.9 }, "curriculum_summary": { "total_modules": 7, "total_hours": 14, "has_certificate": true }, "enrollment_stats": { "students": 2500, "last_updated": "2024-03-04", "popularity_score": 93 } },
+    { "id": 13, "title": "Game Dev with Unity", "category": "Game Dev", "price": 500000, "thumbnail_url": "https://picsum.photos/seed/course13/400/250", "description": "Bikin game 3D pertamamu sendiri.", "instructor_detail": { "name": "Gamer Pro", "experience": "5 Years", "rating": 4.7 }, "curriculum_summary": { "total_modules": 18, "total_hours": 55, "has_certificate": true }, "enrollment_stats": { "students": 600, "last_updated": "2024-03-09", "popularity_score": 86 } },
+    { "id": 14, "title": "Yoga for Mental Health", "category": "Health", "price": 100000, "thumbnail_url": "https://picsum.photos/seed/course14/400/250", "description": "Menjaga keseimbangan jiwa dan raga.", "instructor_detail": { "name": "Anisa Zen", "experience": "3 Years", "rating": 4.9 }, "curriculum_summary": { "total_modules": 4, "total_hours": 8, "has_certificate": false }, "enrollment_stats": { "students": 400, "last_updated": "2024-03-11", "popularity_score": 78 } },
+    { "id": 15, "title": "Project Management (PMP)", "category": "Business", "price": 750000, "thumbnail_url": "https://picsum.photos/seed/course15/400/250", "description": "Sertifikasi manajemen proyek standar global.", "instructor_detail": { "name": "Hendra PMP", "experience": "18 Years", "rating": 4.8 }, "curriculum_summary": { "total_modules": 10, "total_hours": 40, "has_certificate": true }, "enrollment_stats": { "students": 300, "last_updated": "2024-02-20", "popularity_score": 81 } },
+    { "id": 16, "title": "Copywriting for Beginners", "category": "Marketing", "price": 220000, "thumbnail_url": "https://picsum.photos/seed/course16/400/250", "description": "Menulis iklan yang menghasilkan konversi.", "instructor_detail": { "name": "Dewi Penulis", "experience": "6 Years", "rating": 4.7 }, "curriculum_summary": { "total_modules": 9, "total_hours": 15, "has_certificate": true }, "enrollment_stats": { "students": 1800, "last_updated": "2024-03-01", "popularity_score": 90 } },
+    { "id": 17, "title": "Artificial Intelligence Basics", "category": "Tech", "price": 400000, "thumbnail_url": "https://picsum.photos/seed/course17/400/250", "description": "Mengenal konsep AI dan Machine Learning.", "instructor_detail": { "name": "Prof. Agus", "experience": "14 Years", "rating": 4.9 }, "curriculum_summary": { "total_modules": 11, "total_hours": 28, "has_certificate": true }, "enrollment_stats": { "students": 900, "last_updated": "2024-03-07", "popularity_score": 87 } },
+    { "id": 18, "title": "Financial Planning 101", "category": "Finance", "price": 120000, "thumbnail_url": "https://picsum.photos/seed/course18/400/250", "description": "Kelola uang pribadi agar bebas finansial.", "instructor_detail": { "name": "Rico Invest", "experience": "7 Years", "rating": 4.6 }, "curriculum_summary": { "total_modules": 6, "total_hours": 10, "has_certificate": true }, "enrollment_stats": { "students": 3500, "last_updated": "2024-03-03", "popularity_score": 96 } },
+    { "id": 19, "title": "Video Editing with Premiere", "category": "Creative", "price": 380000, "thumbnail_url": "https://picsum.photos/seed/course19/400/250", "description": "Edit video cinematic untuk YouTube/Sosmed.", "instructor_detail": { "name": "Editor Ganteng", "experience": "4 Years", "rating": 4.7 }, "curriculum_summary": { "total_modules": 12, "total_hours": 30, "has_certificate": true }, "enrollment_stats": { "students": 1400, "last_updated": "2024-03-06", "popularity_score": 91 } },
+    { "id": 20, "title": "Stock Market Trading", "category": "Finance", "price": 550000, "thumbnail_url": "https://picsum.photos/seed/course20/400/250", "description": "Analisis teknikal dan fundamental saham.", "instructor_detail": { "name": "Trader X", "experience": "9 Years", "rating": 4.8 }, "curriculum_summary": { "total_modules": 15, "total_hours": 40, "has_certificate": true }, "enrollment_stats": { "students": 2200, "last_updated": "2024-03-12", "popularity_score": 94 } }
+  ]
+}
