@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <section className="home">
       <div className="home-content">
-        <span className="home-badge">🦷 Klinik Gigi Profesional</span>
+        <div className="home-badge">🦷 Klinik Gigi Profesional</div>
 
         <h1>
           Senyum Sehat
